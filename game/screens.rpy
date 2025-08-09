@@ -565,7 +565,7 @@ screen about():
             if gui.about:
                 text "[gui.about!t]\n"
 
-            text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]")
+            text _("Other Side of the Mirror is a (genre) game about a teenager's experience with gender dysphoria and how it effects her daily life. \n\nThis game was made with love by the marzlib development team. \n\n[renpy.license!t]")
 
 
 style about_label is gui_label
