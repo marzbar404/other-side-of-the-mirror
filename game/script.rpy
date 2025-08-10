@@ -1,5 +1,7 @@
 ﻿define leo = Character("Leo")
 define alarm = Character("Alarm Clock")
+define unknown = Character("???")
+define lia = Character("Lia")
 
 label start:
     scene bg_room
@@ -22,5 +24,3 @@ label start:
     lia "Oh calm down..."
 
     return
-# https://marketplace.visualstudio.com/items?itemName=renpy.language-renpy
-# okay!! <3
